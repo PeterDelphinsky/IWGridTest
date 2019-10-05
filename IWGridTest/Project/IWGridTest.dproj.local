@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2019-10-05 15:35:36.756,=D:\Projects\Intraweb\IWGridTest\Project1\Unit9.pas</Transaction>
+    <Transaction>2019-10-05 15:35:36.940,=D:\Projects\Intraweb\IWGridTest\Project1\ServerController.pas</Transaction>
+    <Transaction>2019-10-05 15:35:36.994,=D:\Projects\Intraweb\IWGridTest\Project1\UserSessionUnit.pas</Transaction>
+    <Transaction>2019-10-05 15:36:31.117,D:\Projects\Intraweb\IWGridTest\Source\IWMainFrm.dfm=D:\Projects\Intraweb\IWGridTest\Project1\Unit9.dfm</Transaction>
+    <Transaction>2019-10-05 15:36:31.117,D:\Projects\Intraweb\IWGridTest\Source\IWMainFrm.pas=D:\Projects\Intraweb\IWGridTest\Project1\Unit9.pas</Transaction>
+    <Transaction>2019-10-05 15:37:18.514,D:\Projects\Intraweb\IWGridTest\Project\IWGridTest.dproj=D:\Projects\Intraweb\IWGridTest\Project1\Project1.dproj</Transaction>
+    <Transaction>2019-10-05 15:37:55.560,=D:\Projects\Intraweb\IWGridTest\Source\ServerController.pas</Transaction>
+    <Transaction>2019-10-05 15:37:55.624,=D:\Projects\Intraweb\IWGridTest\Source\UserSessionUnit.pas</Transaction>
+  </Transactions>
+</BorlandProject>
